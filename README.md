@@ -32,3 +32,5 @@ Atualmente estou cursando Engenharia de Software pela Unopar, com previsão de c
 <h2>🚀 &nbsp;My GitHub Stats</h2>
 
 ![Alisson Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alissongoliveira&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissongoliveira&layout=compact&theme=dracula)
